@@ -1,6 +1,7 @@
 name: pretty_print_json
 description: A starting point for Dart libraries or applications.
 version: 1.0.0
+repository: https://github.com/thecoder-co/pretty-print-json-dart
 # homepage: https://www.example.com
 
 environment:

@@ -15,14 +15,16 @@ prints a prettified json string or object
 
 ## Getting started
 
+```dart
 import 'package:pretty_print_json/pretty_print_json.dart';
+```
 
 ## Usage
-
+```dart
 prettyPrintJson('{"a": 1, "b": 2}');
 
 prettyPrintJson({
   "a": 1,
   "b": [2, 3]
 });
-
+```
