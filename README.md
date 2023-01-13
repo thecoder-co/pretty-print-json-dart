@@ -11,7 +11,7 @@ and the Flutter guide for
 [developing packages and plugins](https://flutter.dev/developing-packages). 
 -->
 
-prints a prettified json string or object
+Prints a prettified json string or object
 
 ## Getting started
 
